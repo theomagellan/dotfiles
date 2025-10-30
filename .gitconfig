@@ -1,8 +1,10 @@
 # This is Git's per-user configuration file.
 [user]
-# Please adapt and uncomment the following lines:
 	name = Théo de Magalhaes
   email = theodemagalhaes@icloud.com
 
 [url "git@github.com:"]
   insteadOf = "https://github.com/"
+
+[core]
+	editor = nvim
